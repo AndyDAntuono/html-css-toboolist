@@ -35,4 +35,38 @@ body {
     margin: auto;
     margin-top: 50px;
 }
+
+.secondary-container {
+    width: 900px;
+    height: 750px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.add-task {
+    display: inline-block;
+    height: 25px;
+    width: 70px;
+    color: white;
+    background-color: rgba(71,173,241,255);
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+    line-height: 25px;
+    vertical-align: middle;
+}
+
+.add-section {
+    display: inline-block;
+    height: 25px;
+    width: 100px;
+    color:darkgray;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    text-align: center;
+    line-height: 25px;
+    vertical-align: middle;
+    border: 1px solid darkgray;
+}
     
